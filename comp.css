@@ -18,7 +18,7 @@ border: 1px solid #009999;
 border-radius: 4px;
 box-sizing: border-box;
 font-family: trebuchet ms;
-font-size: 40px;
+font-size: 18px;
 margin-top: 6px;
 margin-bottom: 16px;
 resize: vertical;
@@ -27,7 +27,7 @@ resize: vertical;
 input[type=submit] {
 background-color: cadetblue;
 color: white;
-font-size: 40px;
+font-size: 18px;
 font-family: lobster;
 padding: 12px 20px;
 border: none;
